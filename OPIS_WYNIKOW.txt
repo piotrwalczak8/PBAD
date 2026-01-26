@@ -1,0 +1,24 @@
+1. Wpływ na Jakość Pracy
+Istnieje silna dodatnia korelacja (r=0.64) między poziomem odczuwanego rozproszenia a negatywnym wpływem na jakość pracy.
+
+Przerwy nie są tylko irytujące ale też realnie psują produkt końcowy. Programiści, którzy czują się mocno rozpraszani, otwarcie przyznają, że odbija się to na jakości ich kodu.
+
+2. Zarządzanie przerwami a produktywność
+Zauważalna jest korelacja (r=0.56) między skutecznością stosowanych metod (np. bloki czasu skupienia) a ogólną samooceną produktywności.
+
+Inwestycja w techniki ochrony czasu (Focus Time) ma bezpośrednie przełożenie na to, jak wydajny czuje się pracownik. Osoby, które "panują" nad przerwami, oceniają swój dzień pracy znacznie wyżej.
+
+3. Pułapka "natychmiastowej odpowiedzi"
+Analiza pokazała korelację między szybkością przełączania się na przerwanie a czasem powrotu do pełnego skupienia (r=0.34).
+
+Paradoksalnie, im szybciej rzucasz wszystko, by odpowiedzieć na wiadomość na Slacku/Teams, tym trudniej jest Ci potem wrócić do głębokiej pracy (eep Work). "Szybkie" przełączanie wydłuża proces odzyskiwania koncentracji.
+
+4. Wielkość zespołu ma znaczenie
+Większe zespoły korelują z częstszymi przerwami w ciągu dnia (r=0.34).
+
+Wraz ze wzrostem liczby osób w zespole drastycznie rośnie "szum informacyjny". W dużych strukturach konieczne jest wprowadzenie bardziej rygorystycznych zasad komunikacji asynchronicznej, aby chronić czas programistów.
+
+5. Satysfakcja z pracy a doświadczenie
+Ciekawym wynikiem jest korelacja między stażem pracy (Experience) a ogólną satysfakcją z pracy (r=0.32).
+
+Seniorzy wydają się być bardziej zadowoleni z pracy, co może wynikać z lepiej wypracowanych mechanizmów radzenia sobie z rozpraszaczami lub większej autonomii w zarządzaniu swoim czasem.

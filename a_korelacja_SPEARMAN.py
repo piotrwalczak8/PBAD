@@ -5,7 +5,7 @@ from scipy.stats import spearmanr
 import numpy as np
 
 # 1. Wczytanie danych
-file_path = 'Interruptions in Software Development_ Productivity & Focus Survey(kopia sheet 1 do wykresow).csv'
+file_path = 'Z_Interruptions in Software Development_ Productivity & Focus Survey(kopia sheet 1 do wykresow).csv'
 try:
     df = pd.read_csv(file_path, sep=';', encoding='utf-8')
 except Exception:
@@ -73,7 +73,7 @@ p_values = get_p_values(df_final)
 # Heatmapa
 plt.figure(figsize=(12, 10))
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', center=0)
-plt.title('Macierz korelacji Spearmana')
+plt.title('Spearman correlation matrix')
 plt.tight_layout()
 plt.savefig('correlation_heatmap.png')
 
@@ -91,7 +91,7 @@ top_pairs = sorted(pairs, key=lambda x: abs(x[2]), reverse=True)[:3]
 for idx, (v1, v2, r) in enumerate(top_pairs):
     plt.figure(figsize=(8, 6))
     sns.regplot(data=df_final, x=v1, y=v2, x_jitter=0.2, y_jitter=0.2, scatter_kws={'alpha':0.5})
-    plt.title(f'Korelacja: {v1} vs {v2}\nSpearman r = {r:.3f}')
+    plt.title(f'Correlation: {v1} vs {v2}\nSpearman r = {r:.3f}')
     plt.tight_layout()
     plt.savefig(f'top_korelacja_{idx+1}.png')
 

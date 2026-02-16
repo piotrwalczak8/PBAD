@@ -1,0 +1,36 @@
+Survey Information.xlsx
+- Survey questions and descriptions of possible answers
+- Invitation text used to request survey participation
+- Reference survey template on which this study was based
+- Distribution channels used to disseminate the survey
+
+Research workflow diagram (draw.io)
+- Simple flowchart illustrating the research and analysis steps
+
+Forms – editable version (link)
+- Link to the editable final version of the survey containing the collected responses
+
+Charts and open questions labeled.xlsx
+- Tab 1: Raw survey data with additional working columns
+- Tab 2: Selected question pairs with aligned responses
+- Tab 3: Multiple-choice question responses decomposed into atomic answers
+- Tabs 4–8: Labeled responses to open-ended questions (used selectively)
+- Tab 9: Charts generated directly from raw data
+- Tab 10: Boxplot chart comparing work arrangement and disruptiveness
+
+LITERATURE (folder)
+- All referenced sources in PDF format
+
+FIGURES (folder)
+- All figures and images used in the final paper
+
+KOD (folder)
+- preprocessing.py – data cleaning, normalization, category mapping, dataset export
+- a_korelacja_SPEARMAN.py – Spearman correlations, significance tests, visualizations
+- analysis_correlations.py – exploratory correlation analysis
+- analysis_descriptive.py – descriptive statistics, distributions, group comparisons
+- mappings.py – column aliases and ordinal variable mappings
+- Generated plots (PNG files)
+- Results description (TXT)
+- summary_results.md – consolidated summary of results
+- z_macierz_korelacji.xlsx – correlation matrix stored in column-based Excel format

@@ -1,0 +1,56 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Strona-1" id="v6BBkiwFWtYSFg1bCW8m">
+    <mxGraphModel dx="2017" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="967wQCgItUUlNnT_ggbp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-1" target="967wQCgItUUlNnT_ggbp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-1" value="Literature review" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-2" target="967wQCgItUUlNnT_ggbp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-2" value="Development of the questionnaire" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-3" target="967wQCgItUUlNnT_ggbp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-3" value="&lt;div dir=&quot;ltr&quot; class=&quot;lRu31&quot;&gt;&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;Distribution of the questionnaire&lt;/span&gt;&lt;span class=&quot;ZSCsVd&quot;&gt;&lt;/span&gt;&lt;div class=&quot;OvtS8d&quot;&gt;&lt;/div&gt;&lt;div class=&quot;NQSJo&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-4" target="967wQCgItUUlNnT_ggbp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="380" />
+              <mxPoint x="540" y="430" />
+              <mxPoint x="-100" y="430" />
+              <mxPoint x="-100" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-4" value="&lt;div dir=&quot;ltr&quot; class=&quot;lRu31&quot;&gt;&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;Collecting data from questionnaires&lt;/span&gt;&lt;span class=&quot;ZSCsVd&quot;&gt;&lt;/span&gt;&lt;div class=&quot;OvtS8d&quot;&gt;&lt;/div&gt;&lt;div class=&quot;NQSJo&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-5" target="967wQCgItUUlNnT_ggbp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-5" value="&lt;div dir=&quot;ltr&quot; class=&quot;lRu31&quot;&gt;&lt;span lang=&quot;en&quot; class=&quot;HwtZe&quot;&gt;Analysis of preliminary results&lt;/span&gt;&lt;span class=&quot;ZSCsVd&quot;&gt;&lt;/span&gt;&lt;div class=&quot;OvtS8d&quot;&gt;&lt;/div&gt;&lt;div class=&quot;NQSJo&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classicThin;endFill=1;strokeWidth=1;" edge="1" parent="1" source="967wQCgItUUlNnT_ggbp-6" target="967wQCgItUUlNnT_ggbp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-6" value="In-depth analysis of results using programming tools" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="967wQCgItUUlNnT_ggbp-7" value="Drawing conclusions" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
